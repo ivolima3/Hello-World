@@ -9,4 +9,4 @@ repositório
 "age":"26",
 }
 ```
-[^1]:Universidade de Coimbra
+[^1]: Universidade de Coimbra
